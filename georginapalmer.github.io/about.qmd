@@ -1,0 +1,32 @@
+---
+title: "About"
+about:
+  template: solana
+  image: GeorginaP.png
+  image-width: 10cm 
+  image-shape: rounded
+  links:
+    - icon: gitbub
+      text: Github
+      href: https://github.com/georginapalmer
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/georgina-palmer-09705a208/
+---
+## Education 
+I am a student in my pernultimate year of Management Science Bsc at University College London 
+
+**University College** | Management Science (Bsc)| 2024 - London 
+
+**Somerset College**| A-levels | 2021 -South Africa, Western Cape 
+
+- **Geography**: A*
+- **History**: A*
+- **Mathematics**: A
+---
+
+Feel free to do some math
+
+```{r}
+1 + 1
+```
