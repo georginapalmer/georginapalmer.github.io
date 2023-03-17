@@ -1,0 +1,14 @@
+{
+  "hash": "4436fd2f10f13d9b1cda21b47bcadb81",
+  "result": {
+    "markdown": "---\ntitle: \"Research\"\necho: false\n---\n\n\n<link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.12.1/css/all.css\" crossorigin=\"anonymous\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css\">\n\n\n::: {.cell}\n<style type=\"text/css\">\n.button {background-color: white;\n  color: black;\n  border: 1px solid black;}\n  \n.button:hover {\n  background-color: black;\n  color: white;\n  border: 1px solid black;\n}\n</style>\n:::\n\n::: {.cell}\n\n:::\n\n\n## Publication\n\nNothing right now. Come back soon \n\n`<a href=\"https://tenor.com/view/ill-be-back-shortly-william-murdoch-murdoch-mysteries-ill-be-back-soon-ill-be-right-back-gif-25298624\">  <button class=\"btn btn-default btn-sm button\"><i class=\"far fa-file-pdf\"></i> Preprint</button></a>`{=html} `<a href=\"https://www.getyarn.io/yarn-clip/22bb3a6c-3f8e-46d5-a4a5-34608f51f5b6/gif\">  <button class=\"btn btn-default btn-sm button\"><i class=\"ai ai-open-access ai-lg\"></i> DOI</button></a>`{=html}  \n\n---\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
