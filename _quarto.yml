@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  
+execute: 
+  freeze: true
+
+website:
+  title: "GEORGINA PALMER"
+  description: The personal wesbite of Georgina Palmer
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: Research.qmd
+        text: Research 
+    
+    right: 
+      - icon: linkedin
+        text: Linkedin 
+        href: https://www.linkedin.com/in/georgina-palmer-09705a208/
+        
+format:
+  html:
+    theme:
+      light: Simplex
+      dark: Cyborg
+    css: styles.css
+    toc: true
+
+editor: visual
+

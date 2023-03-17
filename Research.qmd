@@ -1,0 +1,42 @@
+---
+title: "Research"
+echo: false
+---
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+```{css}
+.button {background-color: white;
+  color: black;
+  border: 1px solid black;}
+  
+.button:hover {
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+}
+```
+
+```{r}
+bt <- function(link, label, icon){
+  bt_ccs <- downloadthis::download_link(
+  link = link,
+  button_label = label,
+  button_type = "default",
+  has_icon = TRUE,
+  icon = icon,
+  self_contained = FALSE,
+  button_size = "small",
+  class = "button"
+  ) 
+  shiny::HTML(gsub("\n", "", as.character(bt_ccs)))
+}
+```
+
+## Publication
+
+Nothing right now. Come back soon 
+
+`r bt("https://tenor.com/view/ill-be-back-shortly-william-murdoch-murdoch-mysteries-ill-be-back-soon-ill-be-right-back-gif-25298624", "Preprint", "far fa-file-pdf")` `r bt("https://giphy.com/explore/see-you-soon", "DOI", "ai ai-open-access ai-lg")`  
+---
