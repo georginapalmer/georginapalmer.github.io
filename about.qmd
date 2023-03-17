@@ -25,7 +25,7 @@ I am a student in my pernultimate year of Management Science Bsc at University C
 - **Mathematics**: A
 ---
 
-About this site
+Feel free to do some math
 
 ```{r}
 1 + 1

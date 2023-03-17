@@ -38,5 +38,5 @@ bt <- function(link, label, icon){
 
 Nothing right now. Come back soon 
 
-`r bt("https://tenor.com/view/ill-be-back-shortly-william-murdoch-murdoch-mysteries-ill-be-back-soon-ill-be-right-back-gif-25298624", "Preprint", "far fa-file-pdf")` `r bt("https://giphy.com/explore/see-you-soon", "DOI", "ai ai-open-access ai-lg")`  
+`r bt("https://tenor.com/view/ill-be-back-shortly-william-murdoch-murdoch-mysteries-ill-be-back-soon-ill-be-right-back-gif-25298624", "Preprint", "far fa-file-pdf")` `r bt("https://www.getyarn.io/yarn-clip/22bb3a6c-3f8e-46d5-a4a5-34608f51f5b6/gif", "DOI", "ai ai-open-access ai-lg")`  
 ---
